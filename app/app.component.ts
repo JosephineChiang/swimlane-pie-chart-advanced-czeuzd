@@ -10,7 +10,7 @@ import { single } from './data';
 })
 export class AppComponent {
   single: any[];
-  view: any[] = [700, 400];
+  view: any[] = [700, 200];
 
   // options
   gradient: boolean = true;
