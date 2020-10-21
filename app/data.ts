@@ -8,7 +8,7 @@ export var single = [
     value: 900
   },
   {
-    name: "Messager",
+    name: "Messenger",
     value: 220
   }
 ];
